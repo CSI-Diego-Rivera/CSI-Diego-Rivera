@@ -29,6 +29,8 @@
 3.Agrega la cascarita de limón y cuece a fuego lento moviendo constantemente y en una sola dirección.
 4.Finalmente, sirve en moldes y espolvorea con canela.
 
+https://www.youtube.com/watch?v=gE2kl-pPF-I
+
 
 #### Referencias
 -https://www.sabrosia.pr/recetas/2019/12/05/receta-majarete-mas-delicioso-navidad.html
