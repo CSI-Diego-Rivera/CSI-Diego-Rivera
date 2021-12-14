@@ -4,7 +4,7 @@
 
 <img src="https://www.goya.com/media/4505/corn-pudding.jpg?quality=80" width="520" height="374" /> 
 
-# majares navidenos
+# Majares navidenos
 
 
 ## Majarete
