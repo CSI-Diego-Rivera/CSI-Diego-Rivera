@@ -1,14 +1,16 @@
 <
 
+<div align="center">
+
 <img src="https://www.goya.com/media/4505/corn-pudding.jpg?quality=80" width="520" height="374" /> 
 
 # majares navidenos
 
 
 ## Majarete
+</div>
 
-
-###Ingredientes:
+### Ingredientes:
 - lata de leche de coco
 - 1 lata de Leche fresca o evaporada
 - Azúcar granulada a gusto
@@ -29,8 +31,12 @@
 3.Agrega la cascarita de limón y cuece a fuego lento moviendo constantemente y en una sola dirección.
 4.Finalmente, sirve en moldes y espolvorea con canela.
 
+
+New video:
+
 https://www.youtube.com/watch?v=gE2kl-pPF-I
 
+<br>
 
 #### Referencias
 -https://www.sabrosia.pr/recetas/2019/12/05/receta-majarete-mas-delicioso-navidad.html
